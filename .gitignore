@@ -54,6 +54,7 @@ env/
 
 # Configuration
 .env
+.venv
 
 # Development database
 *.db
